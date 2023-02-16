@@ -1,4 +1,7 @@
 body{
-	background-color: black;
-	color: white;
+	background-color: rgb(179, 179, 179);
+	color: rgb(32, 32, 32);
+	max-width: 960px;
+	margin:auto;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
